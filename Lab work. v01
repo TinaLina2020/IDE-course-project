@@ -1,0 +1,15 @@
+using System;
+
+namespace FirstApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string fname, lname; //vardas, pavarde
+            int n; // namu darbu skaicius
+            int [] nd; // namu darbu rezultatai
+            int egz; //egzamino rezultatai
+        }
+    }
+}
